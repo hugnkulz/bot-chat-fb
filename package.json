@@ -1,0 +1,19 @@
+{
+  "name": "facebook-bot",
+  "version": "1.0.0",
+  "description": "Chat bot ca nhan by NGUYEN HUNG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugnkulz/bot-chat-fb.git"
+  },
+  "author": "Nguyen Hung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugnkulz/bot-chat-fb/issues"
+  },
+  "homepage": "https://github.com/hugnkulz/bot-chat-fb#readme"
+}
