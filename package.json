@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/hugnkulz/bot-chat-fb/issues"
   },
-  "homepage": "https://github.com/hugnkulz/bot-chat-fb#readme"
+  "homepage": "https://github.com/hugnkulz/bot-chat-fb#readme",
+  "dependencies": {
+    "change-case": "^2.3.1",
+    "facebook-chat-api": "^1.1.0"
+  }
 }

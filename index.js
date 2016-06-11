@@ -17,7 +17,7 @@ login({email: "thue.baibo.9", password: "1621997"}, function callback (err, api)
                                         /////var tinnhan = changeCase.isUpper(event.body);
                                         //DỪNG CHAT FACEBOOK
                                         if(event.body === '/stop') {
-                                          api.sendMessage("Goodbye...", event.threadID);
+                                          api.sendMessage("Tạm biệt nhé...", event.threadID);
                                           return stopListening();
                                         }
                                         
@@ -356,25 +356,25 @@ login({email: "thue.baibo.9", password: "1621997"}, function callback (err, api)
                                                          'Em lạy bác, nói éo hiểu gì cả',
                                                          'Em bái phục bác, nói câu nào câu nấy rọc rành',
                                                          'Đù, nói gì chẳng hiểu',
-                                                         'Ngươi đến Trái Đất với mục đích gì, sao ta chẳng hiểu người nói cái gì vậy',
-                                                         'Giỡn không à, miệng búng ra sữa mà dám đú với anh',
+                                                         'Người đến Trái Đất với mục đích gì, sao làm tim em xốn xao',
+                                                         'Giỡn không à, miệng búng ra sữa mà dám đú đỡn',
                                                          'Bác nói chuyện cao siêu thật, em bái phục',
                                                          'Xin hỏi ai có thể vào đây vả vở mồm đứa đang chat với em được không, nó lẩm ba lẩm bẩm như tên điên từ nãy tới giờ',
                                                          'Ơn giời, người ngoài hành tinh đây rồi',
                                                          'Em chưa thấy ai có Độ Ngu nó đánh đu với Độ Dốt như bác',
 														 'Cứ chuyện với bác là em lại buồn Ị',
-                                                         'Xin bác để cho em sống, nói chuyện với bác khiến em muốn đái',
-                                                         'Bác có phải người không đấy, hiểu cái quái gì đâu?',
+                                                         'Xin bác để cho em sống, nói chuyện với bác khiến em buồn ...',
+                                                         'Bác có phải người không đấy, nói nhảm từ nãy tới giờ?',
                                                          'Bác làm em sợ rồi đấy',
                                                          'Bác khiến em tự hào, khi trên thế giới này còn có ai đó NGU hơn mình',
-                                                         'Đã bao giờ bác tự hỏi về bệnh của mình không, em thấy tội cho một số phận',
+                                                         'Đã bao giờ bác tự hỏi về bệnh của mình không?',
                                                          'Tên bác là gì nhờ? Để em còn tiện xưng hô',
                                                          'Em đang chat với một tên HÂM, một tên HÂM đang chat với em, chat với em là một thằng HÂM, thằng HÂM là đứa đang chat với em',
                                                          'Bắc thang lên hỏi ông trời, Tại sao lại có tên NGU thế này, Ông trời cố gắng giải bầy, Tao còn éo biết huống chi là mày',
                                                          'Bác nghĩ sao về câu bác vừa nói ',
                                                          'Bác làm em bứt rứt rồi đấy ',
-                                                         'Bác có phải người không đấy, hiểu cái quái gì đâu?',
-                                                         'Bác khiến em tự hào, khi trên thế giới này còn có ai đó NGU hơn mình',
+                                                         'Em bắt đầu thích bác rồi đấy',
+                                                         'Bác cứ tiếp tục đi, em nghe mà',
 														 'Bác nói tiếp đi, em đang nghe đây',
                                                          'Giỡn không à, miệng búng ra sữa mà dám đú với anh',
                                                          'Bác nói cái gì?',
